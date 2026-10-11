@@ -1,0 +1,30 @@
+{
+  "device_id": "NANO-ESP32-NODE-01",
+  "telemetry": {
+    "latitude": 17.5348,
+    "longitude": 78.3712,
+    "simulated_speed_kmh": 41.2,
+    "z_axis_g_force": 2.45
+  },
+  "hazard_classification": "{\n  \"hazard_detected\": true,\n  \"severity\": \"High\",\n  \"description\": \"Large pothole with significant depth and surrounding cracked asphalt, posing a high risk to vehicles.\"\n}",
+  "municipal_dispatch": "Urgent dispatch required for road maintenance crews to repair a high-severity pothole with significant depth and surrounding cracked asphalt posing an immediate risk to vehicles. Crews must prioritize surface repair and implement traffic safety measures at the location without delay.",
+  "edge_metrics": {
+    "e2e_latency_sec": 4.402,
+    "bandwidth_saved_pct": 98.4
+  }
+}
+{
+  "device_id": "NANO-ESP32-NODE-01",
+  "telemetry": {
+    "latitude": 17.5348,
+    "longitude": 78.3712,
+    "simulated_speed_kmh": 41.2,
+    "z_axis_g_force": 2.45
+  },
+  "hazard_classification": "{\n  \"hazard_detected\": true,\n  \"severity\": \"High\",\n  \"description\": \"Large pothole with significant depth and surrounding cracks, posing a serious risk to vehicles.\"\n}",
+  "municipal_dispatch": "Urgent dispatch required for a high-severity pothole with significant depth and surrounding cracks, posing an immediate risk to vehicles. Maintenance crews must repair the site promptly and enforce temporary traffic controls until the hazard is resolved.",
+  "edge_metrics": {
+    "e2e_latency_sec": 3.748,
+    "bandwidth_saved_pct": 98.4
+  }
+}
