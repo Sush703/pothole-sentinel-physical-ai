@@ -27,6 +27,11 @@ This project bridges embedded microcontrollers with cloud AI to create a seamles
 * USB Webcam
 * Serial connection cable
 
+  ### Hardware Feedback (RGB LED)
+Once the cloud AI dispatches the severity score, the Arduino board actuates the LED:
+*  **Red:** High Severity (Immediate dispatch required)
+*  **Green:** Low Severity (Monitor condition/Scheduled Maintainence)
+
 ## Setup & Installation
 
 **1. Clone the repository**
