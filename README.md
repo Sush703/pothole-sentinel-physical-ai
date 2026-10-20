@@ -1,3 +1,4 @@
+![Hardware Actuation Demo](pothole_trigger.gif)
 # Pothole Sentinel: Physical AI Edge Node
 
 **Nebius x NVIDIA Hackathon Submission | Track: Physical AI**
